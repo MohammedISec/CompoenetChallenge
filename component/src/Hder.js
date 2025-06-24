@@ -15,7 +15,7 @@ function Hder() {
         boxShadow: "0px 5px 10px black",
       }}
     >
-      <h1>Tarmeez Academy</h1>
+      <h1>Moe Post</h1>
     </div>
   );
 }
